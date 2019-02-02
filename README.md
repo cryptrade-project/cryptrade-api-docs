@@ -97,4 +97,4 @@ Please use the [issues](https://github.com/cryptrade-project/cryptrade-api-docs/
 
 ## Contact
 
-Any other problems, please contact Cryptrade Dev Team via Email: (support@cryptrade.io)[mailto:support@cryptrade.io]
+Any other problems, please contact Cryptrade Dev Team via Email: [support@cryptrade.io](mailto:support@cryptrade.io)

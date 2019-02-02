@@ -10,7 +10,7 @@ The base endpoint is: [https://api.cryptrade.io](https://api.cryptrade.io)
 
 ## Public API
 
-### All tickers
+### [All tickers]
 
 **Description**
 
@@ -21,7 +21,7 @@ Return all available tickers
 GET /api/v1/tickers
 ```
 
-**Response**
+**Example Response**
 ```json
 [
     {
@@ -60,10 +60,34 @@ GET /api/v1/tickers
 ]
 ```
 
+### [Specific ticker]
 
+**Description**
 
+Return a specific tickers
 
-### Specific ticker
+**URL**
 ```
 GET /api/v1/ticker/:market_id
 ```
+
+**Example Request**
+```
+GET /api/v1/ticker/CRCO_BTC
+```
+
+**Example Response**
+```json
+{
+    "id": "CRCO_BTC",
+    "quote": "CRCO",
+    "base": "BTC",
+    "latest": "0.00000000",
+    "lowest_ask": "0.00000000",
+    "highest_bid": "0.00000000",
+    "percent_change": "0.00",
+    "base_volume": "0.00000000",
+    "quote_volume": "0.00000000"
+}
+```
+

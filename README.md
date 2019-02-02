@@ -91,3 +91,10 @@ GET /api/v1/ticker/CRCO_BTC
 }
 ```
 
+## Questions && Issues
+
+Please use the [issues](https://github.com/cryptrade-project/cryptrade-api-docs/issues) on this github project to ask questions and report bugs.
+
+## Contact
+
+Any other problems, please contact Cryptrade Dev Team via Email: (support@cryptrade.io)[mailto:support@cryptrade.io]

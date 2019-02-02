@@ -10,7 +10,7 @@ The base endpoint is: [https://api.cryptrade.io](https://api.cryptrade.io)
 
 ## Public API
 
-### [All tickers]
+### [All Tickers]
 
 **Description**
 
@@ -60,11 +60,11 @@ GET /api/v1/tickers
 ]
 ```
 
-### [Specific ticker]
+### [Specific Ticker]
 
 **Description**
 
-Return a specific tickers
+Return a specific ticker
 
 **URL**
 ```
@@ -97,4 +97,4 @@ Please use the [issues](https://github.com/cryptrade-project/cryptrade-api-docs/
 
 ## Contact
 
-Any other problems, please contact Cryptrade Dev Team via Email: [support@cryptrade.io](mailto:support@cryptrade.io)
+Any other problems or feedbacks, please contact Cryptrade Dev Team via Email: [support@cryptrade.io](mailto:support@cryptrade.io)

@@ -29,33 +29,33 @@ GET /api/v1/tickers
         "quote": "BTC",
         "base": "BTS",
         "latest": "0.00000000",
-        "lowest_ask": "0.00000000",
-        "highest_bid": "0.00000000",
-        "percent_change": "0.00",
-        "base_volume": "0.00000000",
-        "quote_volume": "0.00000000"
+        "lowestAsk": "0.00000000",
+        "highestBid": "0.00000000",
+        "percentChange": "0.00",
+        "baseVolume": "0.00000000",
+        "quoteVolume": "0.00000000"
     },
     {
         "id": "CRCO_BTS",
         "quote": "CRCO",
         "base": "BTS",
         "latest": "0.00000000",
-        "lowest_ask": "0.00000000",
-        "highest_bid": "0.00000000",
-        "percent_change": "0.00",
-        "base_volume": "0.00000000",
-        "quote_volume": "0.00000000"
+        "lowestAsk": "0.00000000",
+        "highestBid": "0.00000000",
+        "percentChange": "0.00",
+        "baseVolume": "0.00000000",
+        "quoteVolume": "0.00000000"
     },
     {
         "id": "CRCO_BTC",
         "quote": "CRCO",
         "base": "BTC",
         "latest": "0.00000000",
-        "lowest_ask": "0.00000000",
-        "highest_bid": "0.00000000",
-        "percent_change": "0.00",
-        "base_volume": "0.00000000",
-        "quote_volume": "0.00000000"
+        "lowestAsk": "0.00000000",
+        "highestBid": "0.00000000",
+        "percentChange": "0.00",
+        "baseVolume": "0.00000000",
+        "quoteVolume": "0.00000000"
     }
 ]
 ```
@@ -83,11 +83,11 @@ GET /api/v1/ticker/CRCO_BTC
     "quote": "CRCO",
     "base": "BTC",
     "latest": "0.00000000",
-    "lowest_ask": "0.00000000",
-    "highest_bid": "0.00000000",
-    "percent_change": "0.00",
-    "base_volume": "0.00000000",
-    "quote_volume": "0.00000000"
+    "lowestAsk": "0.00000000",
+    "highestBid": "0.00000000",
+    "percentChange": "0.00",
+    "baseVolume": "0.00000000",
+    "quoteVolume": "0.00000000"
 }
 ```
 
